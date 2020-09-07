@@ -1,0 +1,5 @@
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2\bin\Debug\Task2.dll
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2\bin\Debug\Task2.pdb
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2\obj\Debug\Task2.dll
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2\obj\Debug\Task2.pdb
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2\obj\Debug\Task2.csprojAssemblyReference.cache

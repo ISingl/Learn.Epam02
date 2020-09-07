@@ -1,0 +1,9 @@
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\bin\Debug\Task2_UI.exe.config
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\bin\Debug\Task2_UI.exe
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\bin\Debug\Task2_UI.pdb
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\bin\Debug\Task2.dll
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\bin\Debug\Task2.pdb
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\obj\Debug\Task2_UI.csprojAssemblyReference.cache
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\obj\Debug\Task2_UI.csproj.CopyComplete
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\obj\Debug\Task2_UI.exe
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task2_UI\obj\Debug\Task2_UI.pdb

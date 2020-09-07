@@ -1,0 +1,4 @@
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task1\bin\Debug\Task1.dll
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task1\bin\Debug\Task1.pdb
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task1\obj\Debug\Task1.dll
+C:\Users\ver-s\source\repos\Learn.EPAM\Learn.Epam 02\Task1\obj\Debug\Task1.pdb
